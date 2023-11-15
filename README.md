@@ -1,12 +1,14 @@
 ## installation
 - cd backend
 
-``` npm init -y 
-    npm i express nodemon mongoose
+``` 
+    npm i 
+    npm run dev
 ```
 
 - cd frontend
 
 ``` 
-npm create vite@latest
+npm i
+npm run dev
 ```
